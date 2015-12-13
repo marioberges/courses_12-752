@@ -4,9 +4,7 @@ Please upload your project reports (a single PDF file) here by creating a folder
 
 After you do this, the next step is to add, commit and push the changes, by doing something as follows (imagine this is for my AndrewID, and I'm assuming I'm in the root folder of the repository):
 
-'''
-git add projects/mberges/*
-git commit -m "Added my project report"
-git push origin master
-'''
+	git add projects/mberges/*
+	git commit -m "Added my project report"
+	git push origin master
 
