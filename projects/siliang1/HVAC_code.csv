@@ -1,0 +1,73 @@
+SQFT8    ,Square footage,Num,0
+SQFTC8   ,Year of construction category,Num,1
+YRCONC8  ,Principal building activity,Nom,2
+PBA8     ,Electricity used,Bi,3
+ELUSED8  ,Natural gas used,Bi,4
+NGUSED8  ,Fuel oil/diesel/kerosene used,Bi,5
+FKUSED8  ,Bottled gas/LPG/propane used,Bi,6
+PRUSED8  ,District steam used,Bi,7
+STUSED8  ,District hot water used,Bi,8
+HWUSED8  ,District hot water used,Bi,9
+HEATP8   ,Percent heated,Bi,10
+HTLS508  ,Heated to less than 50 degrees,Bi,11
+FURNAC8  ,Furnaces that heat air directly,Bi,12
+BOILER8  ,Boilers inside the building,Bi,13
+PKGHT8   ,Packaged heating units,Bi,14
+SLFCON8  ,Individual space heaters,Bi,15
+HTPMPH8  ,Heat pumps for heating,Bi,16
+STHW8    ,District steam or hot water piped in,Bi,17
+OTHTEQ8  ,Other heating equipment,Bi,18
+FURNP8   ,Percent heated by furnace,Num,19
+BOILP8   ,Percent heated by boilers,Num,20
+PKGHP8   ,Percent heated by packaged heating,Num,21
+SLFCNP8  ,Percent heated by indiv space heaters,Num,22
+HTPHP8   ,Percent heated by heat pumps,Num,23
+STHWP8   ,Percent heated by dist steam/hot water,Num,24
+OTHTP8   ,Percent heated by other heating equip,Num,25
+MAINHT8  ,Main heating equipment,Nom,26
+PKGHPS8  ,Packaged unit heat pump for heating,Bi,27
+SPLHPS8  ,Split system heat pump for heating,Bi,28
+RMHPS8   ,Individual room heat pump for heating,Bi,29
+AIRHPT8  ,Air source heat pump for heating,Bi,30
+GRDHPT8  ,Ground source heat pump for heating,Bi,31
+WTRHPT8  ,Water loop heat pump for heating,Bi,32
+NWMNHT8  ,Main heating replaced since 1990,Bi,33
+RDHTNF8  ,Heating reduced during 24 hour period,Bi,34
+HWRDHT8  ,How reduce heating,Nom,35
+COOLP8   ,Percent cooled,Num,36
+PKGCL8   ,Packaged air conditioning units,Bi,37
+RCAC8    ,Residential-type central A/C,Bi,38
+ACWNWL8  ,Individual room air conditioners,Bi,39
+HTPMPC8  ,Heat pumps for cooling,Bi,40
+CHWT8    ,District chilled water piped in,Bi,41
+CHILLR8  ,Central chillers inside the building,Bi,42
+EVAPCL8  ,Evaporative or swamp coolers,Bi,43
+OTCLEQ8  ,Other cooling equipment,Bi,44
+PKGCP8   ,Percent cooled by packaged A/C,Num,45
+RCACP8   ,Percent cooled by central A/C,Num,46
+ACWNWP8  ,Percent cooled by individual room A/C,Num,47
+HTPCP8   ,Percent cooled by heat pumps,Num,48
+CHWTP8   ,Percent cooled by district chilled water,Num,49
+CHILP8   ,Percent cooled by central chillers,Num,50
+EVAPP8   ,Percent cooled by swamp coolers,Num,51
+OTCLP8   ,Percent cooled by other cooling equip,Num,52
+MAINCL8  ,Main cooling equipment,Nom,53
+PKGCPS8  ,Packaged unit heat pump for cooling,Bi,54
+SPLCPS8  ,Split system heat pump for cooling,Bi,55
+RMCPS8   ,Individual room heat pump for cooling,Bi,56
+AIRCPT8  ,Air source heat pump for cooling,Bi,57
+GRDCPT8  ,Ground source heat pump for cooling,Bi,58
+WTRCPT8  ,Water loop heat pump for cooling,Bi,59
+NWMNCL8  ,Main cooling replaced since 1990,Bi,60
+RDCLNF8  ,Cooling reduced during 24 hour period,Bi,61
+HWRDCL8  ,How reduce cooling,Nom,62
+VAV8     ,VAV system,Bi,63
+ECN8     ,Economizer cycle,Bi,64
+MAINT8   ,Regular HVAC maintenance,Bi,65
+EMCS8    ,Energy management and control system,,66
+HDD658   ,Heating degree days (base 65),Num,67
+CDD658   ,Cooling degree days (base 65),Num,68
+MFHTBTU8 ,Major Fuel heating use (mBtu),Num,69
+MFCLBTU8 ,Major Fuel cooling use (mBtu),Num,70
+TOTALHTCL,Total Heating and Cooling,Num,71
+ADJWT8   ,Final full sample building weight,Num,72
